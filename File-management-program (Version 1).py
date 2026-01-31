@@ -1,8 +1,6 @@
 import os
 import shutil
 
-#C:\\Users\\Zulqarnain\\Downloads\\Saud\\code\\Hello\\Hello.txt
-
 file = input("Please enter the location of a file or folder: ")
 
 while True:
